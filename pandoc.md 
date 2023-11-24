@@ -1,0 +1,33 @@
+
+
+cd "/Users/pedrojma/Documents/GitHub/pandoc_CV"
+
+--template styles/chmduquesne.tex \
+
+pandoc -s \
+        --from=markdown+yaml_metadata_block \
+        -V geometry:margin=2.5cm \
+		markdown/CV.md \
+		-o output/CV.pdf
+
+
+        -H styles/chmduquesne.css \
+
+pandoc -s \
+		--filter pandoc-crossref \
+		-M crossrefYaml=pandoc-crossref.yaml \
+		--from=markdown+tex_math_single_backslash+tex_math_dollars \
+		--lua-filter=include-files.lua \
+		--lua-filter=pagebreak.lua \
+		--citeproc \
+		--bibliography Nearshoring.bib \
+		--csl=econometrica.csl \
+		--table-of-contents \
+		--number-sections \
+		-V geometry:margin=3cm \
+		technote_empirical_strategy.md \
+		-o technote_empirical_strategy.pdf
+
+
+
+

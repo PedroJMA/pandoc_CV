@@ -107,3 +107,7 @@ executable, leading to errors like `Cannot find context.lua` or similar. It has 
 that running `mtxrun --generate`, ([suggested on texlive-2011-context-problem](
 https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem)), can fix the
 issue.
+
+<!-- 
+cd "/Users/pedrojma/Documents/GitHub/pandoc_CV/"
+ -->
