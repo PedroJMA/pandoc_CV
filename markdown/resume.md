@@ -9,7 +9,7 @@
 
 \vspace{0.5cm}
 
-\rightline{November 19, 2023}
+\rightline{January 29, 2024}
 
 \vspace{0.5cm}
 
@@ -36,7 +36,7 @@ I provided intellectual leadership contributing to the design, evaluation, coord
 
 WBG consultant experience: 3 years and 2 months
 ---------------------------
-Jun'23-Dic'23 : **Research Assistant** for project Nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
+Jun'23-Jan'24 : **Research Assistant** for project Nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
 Under the team leadership of [Mayra Alfaro de Morán](https://blogs.worldbank.org/es/team/mayra-alfaro-de-moran), and vision of Carlos Zafra and Samuel Rosenow, I provided an analytical framework to estimate nearshoring opportunities in Mexico, Central American countries, Colombia and Peru. All results are presented in a dashboard: [nearshoring/](https://nearshoring/).  
 
 

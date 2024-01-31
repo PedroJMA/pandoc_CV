@@ -25,3 +25,10 @@ pandoc -s -V geometry:margin=2.5cm -V colorlinks=true -V linkcolor=blue --variab
 
 
 pdflatex -s output/resume.tex -o output/resume.pdf
+
+<!-- Cover letter IDB, 2024-01-29 -->
+pandoc -s -V geometry:margin=2.5cm -V colorlinks=true -V linkcolor=blue --variable papersize=letter markdown/coverletterIDB.md -o output/coverletterIDB.pdf
+
+
+cd "/Users/pedrojma/Documents/GitHub/pandoc_CV/"
+
