@@ -109,5 +109,13 @@ https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem)), ca
 issue.
 
 <!-- 
+
 cd "/Users/pedrojma/Documents/GitHub/pandoc_CV/"
+
+pandoc -s markdown/resume.md -V geometry:margin=1in -V colorlinks=true -V linkcolor=blue --variable papersize=letter --output output/resume.pdf 
+ 
+
+--
+
+
  -->
