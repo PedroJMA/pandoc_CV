@@ -9,7 +9,7 @@
 
 \vspace{0.5cm}
 
-\rightline{March 30, 2024}
+\rightline{June 13, 2024}
 
 \vspace{0.5cm}
 
@@ -20,6 +20,18 @@ My academic formation encompass **two Masters degrees in Economics**, from El Co
 
 > Extensive experience doing research through the lens of firm-level data from administrative records, economic census and firm surveys in developing countries to estimate productivity, market power, monopsony power, and to quantify misallocation of production factors.
 
+
+WBG consultant experience: 3 years and 7 months
+---------------------------
+Jun'23-June'24 : **Research Assistant** for project Nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
+Under the team leadership of [Mayra Alfaro de Morán](https://blogs.worldbank.org/es/team/m/mayra-alfaro-de-moran) and Carlos Zafra and Samuel Rosenow. I provided an analytical framework to estimate nearshoring opportunities in Mexico, Central American countries, Colombia and Peru. 
+
+
+Feb'21-Feb'23 : **Core team member** of the Firm-level Adoption of Technology (FAT) project, consultant based in Mexico city. 
+Under the vision and leadership of [Xavier Cirera](https://blogs.worldbank.org/team/xavier-cirera), [Marcio Cruz](https://blogs.worldbank.org/team/marcio-cruz) and Diego Comin, I supported through the implementation of the Firm-level Adoption of Technology (FAT) survey in developing countries, preparation of the questionnaire, quality checks, data management and data analysis for the NBER WP paper ["Anatomy of Technology in the Firm"](https://www.nber.org/papers/w28080) and in the flagship report [Bridging the Technological Divide: Technology Adoption by Firms in Developing Countries](https://openknowledge.worldbank.org/server/api/core/bitstreams/d5d4d6f5-054c-5266-aa89-4e78ad5dbbe0/content).
+
+Jul'07-Feb'08: **Research Assistant** for the Enterprise Analysis Unit, IFC. 
+Performing empirical research on enterprise analysis. Main research topics included International Trade and its impact on Productivity, Innovation and Technology on Indian firms, and country profile analysis for 14 African and 15 Latin American countries based on [WB/IFC enterprise surveys](https://www.enterprisesurveys.org/en/enterprisesurveys). Databases: Compustat, WITS-Comtrade, WB/IFC enterprise surveys, WDI, USITC.
 
 
 Mexican government work experience: 3 years and 8 months
@@ -34,17 +46,6 @@ Aug'19-Nov'20 : **Chief of Economic Advisors**, Ministry of Economy, Mexico.
 I provided intellectual leadership contributing to the design, evaluation, coordination and implementation of main public policies in Mexico by Vice Minister of Industry, Commerce and Competitiveness, [Ernesto Acevedo](https://www.worldbank.org/en/about/people/e/ernesto-acevedo). For example, a New Industrial Policy; a new relocation strategy (nearshoring) of global value chains under the T-MEC; public policy recommendations to respond to the economic and health crisis in the aftermath of the Covid-19 outbreaks and coordinating the General Economic Incidence Group to monitor the Mexican economy with high-frequency data (persons, goods and financial markets).
 
 
-WBG consultant experience: 3 years and 4 months
----------------------------
-Jun'23-March'24 : **Research Assistant** for project Nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
-Under the team leadership of [Mayra Alfaro de Morán](https://blogs.worldbank.org/es/team/m/mayra-alfaro-de-moran), and vision of Carlos Zafra and Samuel Rosenow, I provided an analytical framework to estimate nearshoring opportunities in Mexico, Central American countries, Colombia and Peru. All results are presented in a dashboard: [nearshoring/](https://nearshoring/).  
-
-
-Feb'21-Feb'23 : **Core team member** of the Firm-level Adoption of Technology (FAT) project, consultant based in Mexico city. 
-Under the vision and leadership of [Xavier Cirera](https://blogs.worldbank.org/team/xavier-cirera), [Marcio Cruz](https://blogs.worldbank.org/team/marcio-cruz) and Diego Comin, I supported through the implementation of the Firm-level Adoption of Technology (FAT) survey in developing countries, preparation of the questionnaire, quality checks, data management and data analysis for the NBER WP paper ["Anatomy of Technology in the Firm"](https://www.nber.org/papers/w28080) and in the flagship report [Bridging the Technological Divide: Technology Adoption by Firms in Developing Countries](https://openknowledge.worldbank.org/server/api/core/bitstreams/d5d4d6f5-054c-5266-aa89-4e78ad5dbbe0/content).
-
-Jul'07-Feb'08: **Research Assistant** for the Enterprise Analysis Unit, IFC. 
-Performing empirical research on enterprise analysis. Main research topics included International Trade and its impact on Productivity, Innovation and Technology on Indian firms, and country profile analysis for 14 African and 15 Latin American countries based on [WB/IFC enterprise surveys](https://www.enterprisesurveys.org/en/enterprisesurveys). Databases: Compustat, WITS-Comtrade, WB/IFC enterprise surveys, WDI, USITC.
 
 
 IDB consultant experience and research fellowship: 5 years and 3 months
@@ -80,8 +81,12 @@ Winter'09
 
 
 
-Academic Experience: 1 year and 6 months
+Academic Experience: 2 years
 ---------------
+
+Summer'24
+: **Research Assistant** for the research project "Productivity growth in Mexico" by Professors [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh) and [Esteban Rossi-Hansberg](https://rossihansberg.economics.uchicago.edu/). I provided empirical inputs from Mexican economic census 1999-2019. University of Chicago
+
 
 Jan'16-Mar'17
 : **Research Assistant** for the research project "[on the identification of production functions and productivity estimation](https://www.journals.uchicago.edu/doi/10.1086/707736) with [David Rivers](https://economics.uwo.ca/people/faculty/d_rivers.html) & Salvador Navarro". Western University, Ontario, Canada. 
@@ -114,7 +119,7 @@ Specialized in quantitative and econometric methods.
 Publications and work in progress
 --------------------------------
 
-2023 
+2024 
 : Martínez Alanis, P.J., Samuel Rosenow, and Carlos Zafra "**Nearshoring Opportunities in Latin America**", Mimeo. 
 This note lays out the analytical framework used to identify nearshoring potential in Mexico, Central American countries , Colombia and Peru. 
 
@@ -129,7 +134,8 @@ Establishments over 20 years of age in Mexico stop growing and their productivit
 
 2012
 : Martínez Alanis, P.J."[Distorsiones regionales en la asignación de recursos y productividad de las manufacturas en México](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/96)", Estudios Económicos 2012.
-This paper decomposes the regional effects of resource misallocation on aggregate total factor productivity (TFP), as a variant of the Hsieh-Klenow (2009) model. Using establishment level data from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains.
+This paper decomposes the regional effects of resource misallocation on aggregate total factor productivity (TFP), as a variant of the Hsieh-Klenow (2009) model. Using establishment level data from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. 
+<!-- The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains. -->
 
 **Computer skills**: STATA, Jupyter, R, Julia, Python.
 
