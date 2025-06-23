@@ -1,3 +1,4 @@
+
 \vspace{0.5cm}
 
 \centering Pedro José Martínez Alanis
@@ -12,10 +13,18 @@
 
 \vspace{0.5cm}
 
-Economista senior con más de 12 años de experiencia en **análisis económico** y diseño de **políticas públicas** para el gobierno federal de México y organismos internacionales (BID, BM, PNUD). Experto en la realización de **investigación económica** aplicada y **análisis cuantitativo** utilizando grandes volúmenes de datos a nivel de firma (censos económicos, registros administrativos) para informar la toma de decisiones.
+Highly accomplished economist with over 12 years of experience in **empirical economic analysis** within the Mexican federal government and leading international organizations (IDB, WBG, UNDP) across Mexico and Washington, DC. Proven expertise in leveraging **firm-level data** (administrative records, economic censuses, surveys in developing countries) to estimate **productivity**, **market power**, and **resource misallocation**. Extensive experience in evaluating **industrial policies** aimed at enhancing productivity, **innovation**, **technology adoption**, **digital inclusion**, and **firm resilience**. Specialized in analyzing the determinants of firm productivity and their engagement in **Global Value Chains**, with recent work providing insights relevant to the ongoing **nearshoring** trends in Latin America. Holds Master's degrees in Economics from El Colegio de México and Western University (Canada), with PhD studies in Economics at Western University and UC Davis. Strong understanding of **data management** principles relevant to **research data** and potential for **cross-departmental collaboration**.
 
-Sólida experiencia en el **análisis y seguimiento de la economía mexicana**, evaluando temas macroeconómicos y microeconómicos, y colaborando en la **redacción de reportes** técnicos, documentos de investigación y notas de política. Mi trabajo previo en el BID ha contribuido directamente a la agenda de conocimiento y a documentos estratégicos clave para México. Bilingüe nativo en **español e inglés** con total fluidez profesional.
+<!-- 
+>  Economist with more than **13 years of experience** performing empirical economic analysis for the Mexican federal government and international organizations (WBG, IDB, UNDP) in Mexico and Washington, DC. 
+>
+My academic formation encompass **two Masters degrees in Economics**, from El Colegio de México in 2004 and Western University in 2018, and also PhD studies in Economics from Western University and UC Davis. 
 
+> Broad expertise on the evaluation of industrial policies that promote innovation, technology adoption, productivity, digital inclusion, and firm's resilience to supply disruptions. Specialized in the determinants of firm’s productivity, and their participation in Global Value Chains. 
+
+> Extensive experience doing research through the lens of firm-level data from administrative records, economic census and firm surveys in developing countries to estimate productivity, market power, monopsony power, and to estimate the misallocation of production factors.
+> 
+> -->
 
 Experience in the World Bank Group: 4 years and 9 month
 ---------------------------
@@ -37,11 +46,12 @@ Experience in the Mexican government: 3 years and 8 months
 --------------------------------
 
 Feb'21-May'23 : **Chief Economist**, [National Minimum Wage Commission](https://www.gob.mx/conasami). 
-I coordinated a monthly economic outlook report on the Mexican economy to keep track of labor market dynamics, purchasing power of wages, impact of the minimum wage, GDP, industrial activity, inflation expectations, informality, monetary and fiscal policies, exchange rates, balance of payments, and perspectives on main trading partners. For annual reports [2021](https://www.gob.mx/cms/uploads/attachment/file/683861/Anexo_Informe_Anual_2021_vf.pdf) and [2022](https://www.gob.mx/cms/uploads/attachment/file/781706/Anexo_Informe_Anual_2022.pdf), I contributed with **empirical strategies** to evaluate the impact of Covid-19 in the female labor participation in Mexico, to estimate the gender wage gap during the Covid-19 pandemic, to evaluate the employment program [Jovenes construyendo el futuro](https://www.gob.mx/conasami/documentos/el-efecto-del-programa-jovenes-construyendo-el-futuro-durante-la-pandemia-283604) in the first months of the Covid-19 pandemic, to evaluate the impact of the minimum wage increase in the gender wage gap in Mexico. Also, **empirical analysis** and estimation of **market power** in manufacturing industries, and estimation of the pass-through of wages in production prices using confidential manufacturing **firm-level data** in a context of high inflation. Realicé el seguimiento de indicadores clave para la **programación financiera** del país, incluyendo finanzas públicas, balanza de pagos y expectativas de inflación, como parte del reporte mensual de coyuntura.
+I coordinated a monthly economic outlook report on the Mexican economy to keep track of labor market dynamics, purchasing power of wages, impact of the minimum wage, GDP, industrial activity, inflation expectations, informality, monetary and fiscal policies, exchange rates, balance of payments, and perspectives on main trading partners. 
+For annual reports [2021](https://www.gob.mx/cms/uploads/attachment/file/683861/Anexo_Informe_Anual_2021_vf.pdf) and [2022](https://www.gob.mx/cms/uploads/attachment/file/781706/Anexo_Informe_Anual_2022.pdf), I contributed with **empirical strategies** to evaluate the impact of Covid-19 in the female labor participation in Mexico, to estimate the gender wage gap during the Covid-19 pandemic, to evaluate the employment program [Jovenes construyendo el futuro](https://www.gob.mx/conasami/documentos/el-efecto-del-programa-jovenes-construyendo-el-futuro-durante-la-pandemia-283604) in the first months of the Covid-19 pandemic, to evaluate the impact of the minimum wage increase in the gender wage gap in Mexico. Also, **empirical analysis** and estimation of **market power** in manufacturing industries, and estimation of the pass-through of wages in production prices using confidential manufacturing **firm-level data** in a context of high inflation. This involved working with **administrative records** and **firm-level data**.
 
 
 Aug'19-Nov'20 : **Chief of Economic Advisors**, Ministry of Economy, Mexico. 
-Lideré el **diseño, seguimiento y evaluación de políticas públicas** industriales clave, incluyendo la nueva estrategia de **nearshoring** en el marco del T-MEC. Contribuí en la coordinación e implementación de las principales políticas a cargo del Vice Ministro de Industria, Comercio y Competitividad, [Ernesto Acevedo](https://www.worldbank.org/en/about/people/e/ernesto-acevedo), incluyendo recomendaciones de **política pública** para responder a la crisis económica y sanitaria por el Covid-19, y la coordinación del Grupo de Incidencia Económica General para monitorear la economía mexicana con **datos de alta frecuencia**.
+I provided intellectual leadership contributing to the design, evaluation, coordination and implementation of main **public policies** in Mexico by Vice Minister of Industry, Commerce and Competitiveness, [Ernesto Acevedo](https://www.worldbank.org/en/about/people/e/ernesto-acevedo). For example, a New **Industrial Policy**; a new relocation strategy (**nearshoring**) of **global value chains** under the T-MEC; **public policy** recommendations to respond to the economic and health crisis in the aftermath of the Covid-19 outbreaks and coordinating the General Economic Incidence Group to monitor the Mexican economy with **high-frequency data** (persons, goods and financial markets).
 
 
 
@@ -49,7 +59,7 @@ Lideré el **diseño, seguimiento y evaluación de políticas públicas** indust
 Experience in the Inter-American Development Bank: 6 years and 4 months
 --------------
 
-Aug'13-Apr'14: **Research Assistant** for the Vice Presidency for Sector and Knowledge (VPS) based in Mexico city. Under the leadership of [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), I performed empirical research for the project “Productividad, informalidad, ilegalidad y tama$\~{n}$o de los establecimientos” using micro data from Mexican Economic Census 1998, 2003 and 2008. This consultancy contributed to the IDB flagship report [Under-Rewarded Efforts: The Elusive Quest for Prosperity in Mexico](https://flagships.iadb.org/es/esfuerzos-mal-recompensados). Contribuí con análisis empírico y **procesamiento de datos** censales que sirvieron como insumo clave para la agenda de conocimiento del Banco, la **redacción de reportes** insignia (*flagship reports*) y el diálogo que fundamenta la **Estrategia de País (EBP)** con México.
+Aug'13-Apr'14: **Research Assistant** for the Vice Presidency for Sector and Knowledge (VPS) based in Mexico city. Under the leadership of [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), I performed empirical research for the project “Productividad, informalidad, ilegalidad y tama$\~{n}$o de los establecimientos” using micro data from Mexican Economic Census 1998, 2003 and 2008. This consultancy contributed to the IDB flagship report [Under-Rewarded Efforts: The Elusive Quest for Prosperity in Mexico](https://flagships.iadb.org/es/esfuerzos-mal-recompensados) This involved working with **census data**.
 
 
 Sep'11-Jun'12: **Research Assistant** for CID/CME based in Mexico city. 
@@ -148,9 +158,10 @@ Establishments over 20 years of age in Mexico stop growing and their **productiv
 2012
 : Martínez Alanis, P.J."[Distorsiones regionales en la asignación de recursos y productividad de las manufacturas en México](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/96)", Estudios Económicos 2012.
 This paper decomposes the regional effects of **resource misallocation** on **aggregate total factor productivity** (TFP), as a variant of the Hsieh-Klenow (2009) model. Using **establishment level data** from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. 
+<!-- The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains. -->
 
 \vspace{0.5cm}
 
-**Habilidades Técnicas y Software**: STATA, Python, R, Julia, Jupyter (Análisis cuantitativo, recolección y procesamiento de datos).
+**Computer skills**: STATA, Jupyter, R, Julia, Python.These are relevant for **data management** and **data analysis**.
 
-**Idiomas**: Español (Nativo), Inglés (Nativo/Bilingüe), Francés (B2).
+**Language skills**: Spanish, English, French B2.
