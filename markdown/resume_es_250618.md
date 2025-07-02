@@ -8,18 +8,13 @@
 
 \vspace{0.5cm}
 
-\rightline{24 de junio de 2025}
+\rightline{18 de junio de 2025}
 
 \vspace{0.5cm}
 
+Economista senior con más de 12 años de experiencia en **análisis económico** y diseño de **políticas públicas** para el gobierno federal de México y organismos internacionales (BID, BM, PNUD). Experto en la realización de **investigación económica** aplicada y **análisis cuantitativo** utilizando grandes volúmenes de datos a nivel de firma (censos económicos, registros administrativos) para informar la toma de decisiones.
 
-Economista senior con más de 12 años de experiencia en el ciclo completo de **políticas públicas**, desde el diseño hasta el **monitoreo y la evaluación** de su impacto. Experto en promover la **efectividad en el desarrollo** mediante el uso de **evidencia empírica** y análisis cuantitativo riguroso.
-
-Sólida trayectoria en la aplicación de marcos analíticos para asegurar la **evaluabilidad** de programas, definir **indicadores de desempeño** y generar **lecciones aprendidas** para la mejora continua del **portafolio de proyectos**. Mi experiencia en el gobierno de México y en el BID me ha permitido alinear la ejecución de proyectos con objetivos estratégicos, asegurando una **gestión orientada a resultados**.
-
-<!-- Economista senior con más de 12 años de experiencia en **análisis económico** y diseño de **políticas públicas** para el gobierno federal de México y organismos internacionales (BID, BM, PNUD). Experto en la realización de **investigación económica** aplicada y **análisis cuantitativo** utilizando grandes volúmenes de datos a nivel de firma (censos económicos, registros administrativos) para informar la toma de decisiones.
-
-Sólida experiencia en el **análisis y seguimiento de la economía mexicana**, evaluando temas macroeconómicos y microeconómicos, y colaborando en la **redacción de reportes** técnicos, documentos de investigación y notas de política. Mi trabajo previo en el BID ha contribuido directamente a la agenda de conocimiento y a documentos estratégicos clave para México. Bilingüe nativo en **español e inglés** con total fluidez profesional. -->
+Sólida experiencia en el **análisis y seguimiento de la economía mexicana**, evaluando temas macroeconómicos y microeconómicos, y colaborando en la **redacción de reportes** técnicos, documentos de investigación y notas de política. Mi trabajo previo en el BID ha contribuido directamente a la agenda de conocimiento y a documentos estratégicos clave para México. Bilingüe nativo en **español e inglés** con total fluidez profesional.
 
 \vspace{0.5cm}
 
@@ -37,14 +32,10 @@ Experiencia en el gobierno mexicano: 3 años y 8 meses
 --------------------------------
 
 Feb'21-May'23 : **Economista en Jefe**, [Comisión Nacional de los Salarios Mínimos (Conasami)](https://www.gob.mx/conasami). 
-Coordiné un informe mensual de perspectiva económica sobre la economía mexicana para dar seguimiento a la dinámica del mercado laboral, el poder adquisitivo de los salarios, el impacto del salario mínimo, PIB, actividad industrial, informalidad, políticas monetaria y fiscal, y perspectivas de los principales socios comerciales. Contribuí con **estrategias empíricas** para informes anuales y realicé **análisis empírico** sobre el poder de mercado en la manufactura y el *pass-through* de salarios a precios usando **datos confidenciales a nivel de firma**. 
-<!-- Realicé el seguimiento de indicadores clave para la **programación financiera** del país. -->
-Diseñé y apliqué **estrategias de evaluación de impacto** para programas clave como "Jóvenes Construyendo el Futuro", midiendo sus resultados y proveyendo datos cruciales para la toma de decisiones sobre su continuidad y diseño.
+Coordiné un informe mensual de perspectiva económica sobre la economía mexicana para dar seguimiento a la dinámica del mercado laboral, el poder adquisitivo de los salarios, el impacto del salario mínimo, PIB, actividad industrial, informalidad, políticas monetaria y fiscal, y perspectivas de los principales socios comerciales. Contribuí con **estrategias empíricas** para informes anuales y realicé **análisis empírico** sobre el poder de mercado en la manufactura y el *pass-through* de salarios a precios usando **datos confidenciales a nivel de firma**. Realicé el seguimiento de indicadores clave para la **programación financiera** del país.
 
 Aug'19-Nov'20 : **Coordinador de Asesores Económicos**, Secretaría de Economía, México. 
-Lideré el **diseño, seguimiento y evaluación de políticas públicas** industriales clave, incluyendo la nueva estrategia de relocalización (*nearshoring*) de **cadenas globales de valor** en el marco del T-MEC. 
-<!-- Coordiné el Grupo de Incidencia Económica General para monitorear la economía mexicana con **datos de alta frecuencia** y proporcioné recomendaciones de **política pública** ante la crisis del Covid-19. -->
-Lideré la evaluación de la efectividad de políticas industriales, utilizando **evidencia empírica** para generar **lecciones aprendidas** y recomendaciones que mejoraron el diseño de futuras intervenciones.
+Lideré el **diseño, seguimiento y evaluación de políticas públicas** industriales clave, incluyendo la nueva estrategia de relocalización (*nearshoring*) de **cadenas globales de valor** en el marco del T-MEC. Coordiné el Grupo de Incidencia Económica General para monitorear la economía mexicana con **datos de alta frecuencia** y proporcioné recomendaciones de **política pública** ante la crisis del Covid-19.
 
 Experiencia en el Banco Interamericano de Desarrollo (BID): 6 años y 4 meses
 --------------
@@ -58,7 +49,6 @@ Feb'10-Aug'11: **Asistente de Investigación** para VPS, Ciudad de México. Fui 
 Jul'09-Oct'09: **Asistente de Investigación** para EDU/SCL, Ciudad de México. Di seguimiento a 50 mil estudiantes del programa [Alinear Incentivos al Aprendizaje](https://www.iadb.org/en/whats-our-impact/ME-T1114), calculando incentivos basados en pruebas estandarizadas. Se desarrolló un programa en STATA (pmatch.ado) para la **gestión de datos**.
 
 Sep'08-May'09: **Asistente de Investigación** para RES/VPS, Ciudad de México. Analicé la mala asignación de recursos a nivel regional en México siguiendo el modelo Hsieh-Klenow, como parte del proyecto "Entendiendo los niveles, dispersión y crecimiento de la productividad en las industrias de América Latina y el Caribe".
-Mi análisis sirvió para la **sistematización de lecciones aprendidas** sobre la productividad en México, contribuyendo al diálogo estratégico y a la base de conocimiento para el diseño de nuevos proyectos.
 
 Apr'08-Jul'08: **Asistente de Investigación** para RES/VPS, Washington, DC. Estimé medidas de productividad por tamaño de empresa, estado y sectores seleccionados; y su descomposición mediante análisis *shift & share*. Exploré la relación entre programas sociales, informalidad y crecimiento económico en México.
 
@@ -123,13 +113,13 @@ Establishments over 20 years of age in Mexico stop growing and their **productiv
 This paper decomposes the regional effects of **resource misallocation** on **aggregate total factor productivity** (TFP), as a variant of the Hsieh-Klenow (2009) model. Using **establishment level data** from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. 
 <!-- The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains. -->
 
-<!-- \vspace{0.5cm} -->
+\vspace{0.5cm}
 
 Habilidades Técnicas y Software
 --------------------------------
 **Lenguajes de programación**: STATA, Jupyter, R, Julia, Python.
 
-<!-- \vspace{0.5cm} -->
+\vspace{0.5cm}
 
 Idiomas
 --------------------------------
