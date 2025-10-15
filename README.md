@@ -117,6 +117,10 @@ pandoc -s markdown/resume.md -V geometry:margin=1in -V colorlinks=true -V linkco
 
 --
 
+pandoc -s markdown/resume_en_250909.md -V geometry:margin=1in -V colorlinks=true -V linkcolor=blue --variable papersize=letter --output output/resume_en_250909.pdf 
+
+pandoc -s markdown/coverletter_250909.md -V geometry:margin=2.5cm -V colorlinks=true -V linkcolor=blue --variable papersize=letter --output output/coverletter_250909.pdf 
+
 pandoc -s markdown/resume_en.md -V geometry:margin=1in -V colorlinks=true -V linkcolor=blue --variable papersize=letter --output output/resume_en.pdf 
 
 
