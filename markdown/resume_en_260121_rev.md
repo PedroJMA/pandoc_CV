@@ -110,4 +110,6 @@ Technical Skills & Languages
 <!-- 
 cd "/Users/pedrojma/Documents/GitHub/pandoc_CV/"
 pandoc -s -V geometry:margin=2.3cm -V colorlinks=true -V linkcolor=blue --variable papersize=letter markdown/resume_en_260121_rev.md -o output/CV-PedroJMA-en-260121.pdf
+
+pandoc -s -V geometry:margin=2.3cm -V colorlinks=true -V linkcolor=blue --variable papersize=letter markdown/resume_en_260121_rev.md -o output/CV-PedroJMA-en-260121.docx
  -->
